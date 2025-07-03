@@ -1,6 +1,8 @@
 # Dashboard | Power Bi | Recursos-humanos
 Dasboard de gastos en Recursos humanos Power Bi - Base de datos Excel o SQL server 
 
+Link exposición del proyecto: https://youtu.be/fFlpSgnGQnM
+
 Este repositorio contiene un dashboard interactivo desarrollado en **Power BI** para el análisis detallado de **gastos presupuestales en el área de Recursos Humanos (RR.HH.)**. 
 
 El tablero fue diseñado desde una perspectiva técnica de **ciencia de datos**, e incluye el modelado de datos, métricas calculadas con DAX, visualizaciones estratégicas y recomendaciones basadas en análisis descriptivo y prescriptivo.
